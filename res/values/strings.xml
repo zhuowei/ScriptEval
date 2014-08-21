@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScriptEval</string>
+    <string name="tab_edit">Edit</string>
+	<string name="tab_console">Console</string>
+    <string name="action_run">Run</string>
+</resources>
